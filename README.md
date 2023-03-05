@@ -1,8 +1,10 @@
 # To do Django Application
 
+In order to create this project, you can execute below command:
 ```
-#qxresearch enhance the knowledge you've to create something cool 🚀
+# django-admin startproject to-do app 🚀
 ```
+Or, you can directly clone this project
 
 ### Clone This Repository
 
